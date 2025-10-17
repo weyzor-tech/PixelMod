@@ -115,6 +115,7 @@
 html,
 body {
     scroll-behavior: smooth;
+    overflow-x:hidden;
 }
 
 .arrow {
@@ -1838,4 +1839,5 @@ footer>div>ul {
         transform: rotate(45deg);
         top: 50%;
     }
+
 }
